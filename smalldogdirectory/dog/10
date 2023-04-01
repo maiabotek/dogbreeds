@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Havanese </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>Havanese</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog10.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The Havanese is a small dog that weighs roughly 7-13 pounds and lives for an average of 14-16 years. They have a long coat length and are described as intelligent, outgoing and funny. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/havanese/"> See more information about the Havanese from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:Havaneser_Anton.jpg"> Havaneser Anton </a> by Edumegina, licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en"> Creative Commons Attribution-Share Alike 3.0 Unported.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

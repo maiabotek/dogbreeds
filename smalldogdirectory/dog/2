@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> American Hairless Terrier </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>American Hairless Terrier</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog02.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The American Hairless Terrier is a small dog that weighs roughly 12-16 pounds and lives for an average of 14-16 years. They have a short coat length and are described as alert, curious and energetic. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/american-hairless-terrier/"> See more information about the American Hairless Terrier from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:Wudnway_Magnetic_Spots.jpg"> Wudnway Magnetic Spots </a> by Sergey Akishev, licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en"> Creative Commons Attribution-Share Alike 3.0 Unported.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

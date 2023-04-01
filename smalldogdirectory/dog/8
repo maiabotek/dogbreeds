@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> English Toy Spaniel </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>English Toy Spaniel</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog08.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The English Toy Spaniel is a small dog that weighs roughly 8-14 pounds and lives for an average of 10-12 years. They have a medium coat length and are described as intelligent, playful and gentle. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/english-toy-spaniel/"> See more information about the English Toy Spaniel from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:Cavalier_King_Charles_Spaniel_(1491375362).jpg"> Cavalier King Charles Spaniel (1491375362) </a> by allen watkin, licensed under <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en"> Creative Commons Attribution-Share Alike 2.0 Generic.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

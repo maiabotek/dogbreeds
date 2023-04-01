@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> French Bulldog </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>French Bulldog</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog09.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The French Bulldog is a small dog that weighs roughly 20-28 pounds and lives for an average of 10-12 years. They have a short coat length and are described as playful, smart and adaptable. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/french-bulldog/"> See more information about the French Bulldog from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:French_Bulldog_Male.jpg"> French Bulldog Male </a> by TunedAutomotive, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> Creative Commons Attribution-Share Alike 4.0 International.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

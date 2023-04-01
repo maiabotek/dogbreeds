@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Basenji </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>Basenji</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog03.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The Basenji is a small dog that weighs roughly 22-24 pounds and lives for an average of 13-14 years. They have a short coat length and are described as independent, smart and poised. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/basenji/"> See more information about the Basenji from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:Basenji_in_Basankusu_Dibu_Basenji.jpg"> Basenji in Basankusu Dibu Basenji </a> by Francis Hannaway, licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en"> Creative Commons Attribution-Share Alike 3.0 Unported.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

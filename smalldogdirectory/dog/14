@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Miniature Schnauzer </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>Miniature Schnauzer</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog14.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The Miniature Schnauzer is a small dog that weighs roughly 11-20 pounds and lives for an average of 12-15 years. They have a medium coat length and are described as friendly, smart and obedient. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/miniature-schnauzer/"> See more information about the Miniature Schnauzer from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:Miniature_Schnauzer_salt_%26_pepper.jpg"> Miniature Schnauzer salt &amp; pepper </a> by Canarian, licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en"> Creative Commons Attribution-Share Alike 3.0 Unported.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

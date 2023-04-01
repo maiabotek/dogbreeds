@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Shiba Inu </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>Shiba Inu</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog20.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The Shiba Inu is a small dog that weighs roughly 17-23 pounds and lives for an average of 13-16 years. They have a short coat length and are described as alert, active and attentive. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/shiba-inu/"> See more information about the Shiba Inu from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:1Shiba_Inu_Kazumi.jpg"> 1Shiba Inu Kazumi </a> by Maja Dumat, licensed under <a href="https://creativecommons.org/licenses/by/2.0/deed.en"> Creative Commons Attribution 2.0 Generic .</a></p>
+  </footer>
+
+
+  </body>
+  </html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Miniature Poodle </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>Miniature Poodle</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="../static/images/dog13.jpeg" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The Miniature Poodle is a small dog that weighs roughly 10-15 pounds and lives for an average of 10-18 years. They have a long coat length and are described as active, proud and very smart. </p>
+
+      <p> <a href="https://www.akc.org/dog-breeds/poodle-miniature/"> See more information about the Miniature Poodle from the American Kennel Club. </a> </p>
+
+      <p><a href="../index.html">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="https://commons.wikimedia.org/wiki/File:Miniature_Poodle_stacked.jpg"> Miniature Poodle stacked </a> by Belinda, licensed under <a href="https://creativecommons.org/licenses/by/2.0/deed.en"> Creative Commons Attribution 2.0 Generic.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

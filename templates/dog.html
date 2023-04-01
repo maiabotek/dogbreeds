@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> {{ dogs["Breed"] }} </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css')}}">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>{{ dogs["Breed"] }}</h1>
+  </div>
+</header>
+
+<article>
+
+  <img src="{{ url_for('static', filename='images/' + dogs['Image'])}}" alt="Image of the dog breed">
+
+    <div class="info">
+      <p> The {{ dogs["Breed"] }} is a small dog that weighs roughly {{ dogs["Weight"] }} and lives for an average of {{ dogs["Life"] }}. They have a {{ dogs["Coat"] }} coat length and are described as {{ dogs["Personality"] }}. </p>
+
+      <p> <a href="{{ dogs['URL'] }}"> See more information about the {{ dogs["Breed"] }} from the American Kennel Club. </a> </p>
+
+      <p><a href="{{ url_for('index') }}">Return to the list</a> to select a different small dog breed.</p>
+
+    </div>
+
+  </article>
+
+  <footer>
+    <p> Image: <a href="{{ dogs['Image-url'] }}"> {{ dogs["Image-title"] }} </a> by {{ dogs["Photographer"] }}, licensed under <a href="{{ dogs['License-url'] }}"> {{ dogs["License"] }}.</a></p>
+  </footer>
+
+
+  </body>
+  </html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Small Dog Directory </title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css')}}">
+</head>
+
+<body>
+
+<header>
+  <div class=header-text>
+    <h1>Small Dog Breeds</h1>
+  </div>
+</header>
+
+<article>
+
+    <div class="info">
+
+      <p> Click on a name to learn more about small dog breeds. You just may discover your next pet!</p>
+
+      <ul>
+      {% for pair in pairs %}
+          <li><a href="{{ url_for( 'detail', num=pair[0] ) }}">{{ pair[1] }}</a></li>
+      {% endfor %}
+      </ul>
+
+    </div>
+
+</article>
+
+
+
+  </body>
+  </html>
