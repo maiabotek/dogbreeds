@@ -1,7 +1,7 @@
 
 ## The Small Dog Directory by Maia Botek
 
-This webpage was built to show off just how different each small dog is from other breeds. People tend to stereotype small dogs as annoying or unintelligent when that couldn't be farther from the truth! I gathered information from the
+This webpage was built to show off just how different each small dog is from one another. People tend to stereotype small dogs as annoying or unintelligent when that couldn't be farther from the truth! I gathered information from the American Kennel Club.
 
 ### About Each File
 
