@@ -11,9 +11,9 @@ This webpage was built to show off just how different each small dog is from oth
 
 + **Dogs.Py** is modified from code that was written for an example Presidents Flask app in a file called modules.py. It starts by importing Flask, render_template and the CSV module. In the function convert_to_dict, it reads the dogbreeds.csv file and converts it to a dictionary assigned to a variable named doglist.
 
-The file also runs a for loop to append the unique index keys and respective dog breeds (as a tuple) to an empty list, pairs_list. In the first route and function (index) this list is assigned a variable, pairs, and passed to the index.html template.
+    The file also runs a for loop to append the unique index keys and respective dog breeds (as a tuple) to an empty list, pairs_list. In the first route       and function (index) this list is assigned a variable, pairs, and passed to the index.html template.
 
-Finally, the second route with the function, detail, accounts for the fact that list indexes start at zero, and returns an error if the user adds an invalid index into the url. Finally, the function renders the individualized breed pages, dog.html, with information from the dictionary that is assigned to the variable name, dogs.
+    Finally, the second route with the function, detail, accounts for the fact that list indexes start at zero, and returns an error if the user adds an       invalid index into the url. Finally, the function renders the individualized breed pages, dog.html, with information from the dictionary that is           assigned to the variable name, dogs.
 
 + **Freeze.Py** is modified from code from the Flask Introduction page of our advanced web applications course website and imports the Flask App, dogs.py, to be baked out and uploaded on the server.
 
